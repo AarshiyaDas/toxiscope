@@ -95,5 +95,4 @@ def classify(text):
 ## Dataset
 Trained models in this space typically use the [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) dataset (160k Wikipedia comments, labeled by human raters).
 
-## License
-MIT
+
